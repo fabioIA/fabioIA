@@ -13,7 +13,7 @@
   <img align="center" alt="Fabio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fabio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Fabio-pic" height="150" style="border-radius:50px;" 
-       src="https://tenor.com/view/programming-crazy-hard-developer-cramming-gif-7866345?width=676&height=676">
+       src="https://tenor.com/view/programming-crazy-hard-developer-cramming-gif-7866345">
 </div>
 
 ##
