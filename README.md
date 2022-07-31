@@ -12,8 +12,8 @@
   <img align="center" alt="Fabio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fabio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fabio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
-       src="https://c.tenor.com/lNtmoshuUI8AAAAj/bahroo-hacker.gif?width=676&height=676">
+  <img align="right" alt="Fabio-pic" height="150" style="border-radius:50px;" 
+       src="https://tenor.com/view/programming-crazy-hard-developer-cramming-gif-7866345?width=676&height=676">
 </div>
 
 ##
