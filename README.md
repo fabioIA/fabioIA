@@ -14,7 +14,7 @@
   <img align="center" alt="Fabio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Fabio-VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg">
   
-   <img align="right" alt="Programmer Gif" height="150" style="border-radius:50px;" src="file:///C:/Users/fabim/Downloads/programming-crazy.gif">
+   <img align="right" alt="Programmer Gif" height="150" style="border-radius:50px;" src="https://c.tenor.com/10Zdx_RXqgcAAAAM/programming-crazy.gif">
 </div>
 
 ##
