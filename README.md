@@ -1,4 +1,4 @@
-## Olá eu sou Fábio Augusto, apaixonado por programação
+## Olá eu sou Fábio Augusto
 
 <div align="center">
   <a href="https://github.com/fabioIA">
